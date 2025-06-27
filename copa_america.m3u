@@ -1,5 +1,34 @@
 #EXTM3U
 
 #EXTINF:-1 ,"copa america"
-
 https://a2lja3m.la10tv.com/caracol/tracks-v1a1/mono.m3u8?remote=181.59.2.8&token=9151ed0c2088ffc256d57d0e40f33b3a3a8e2de8-d5f88a87507ecd27088d83d9dd575f70-1726040962-1726004962
+#EXTINF:0, "WIN+"
+http://161.132.53.195/Winplus/tracks-v1/index.fmp4.m3u8
+#EXTINF:0, "ESPN1"
+http://161.132.53.195/Espn1/index.fmp4.m3u8
+#EXTINF:0, "ESPN2"
+http://161.132.53.195/Espm2/index.fmp4.m3u8
+#EXTINF:0, "ESPN3"
+http://161.132.53.195/Espm3/index.fmp4.m3u8
+#EXTINF:0, "ESPN4"
+http://161.132.53.195/Espn4/index.fmp4.m3u8
+#EXTINF:0, "ESPN5"
+http://161.132.53.195/Espn5/index.fmp4.m3u8
+#EXTINF:0, "ESPN6"
+http://161.132.53.195/Espn6/index.fmp4.m3u8
+#EXTINF:0, "ESPN7"
+http://161.132.53.195/Espn7/index.fmp4.m3u8
+#EXTINF:0, "DGO1"
+http://161.132.53.195/Dsports1/index.fmp4.m3u8
+#EXTINF:0, "DGO2"
+http://161.132.53.195/dsposrt2/index.fmp4.m3u8
+#EXTINF:0, "DGO3"
+http://161.132.53.195/Dspprtsmas/index.fmp4.m3u8
+#EXTINF:0, "Fox"
+http://161.132.53.195/Foxsp/tracks-a1/index.fmp4.m3u8
+#EXTINF:0, "RCN"
+http://161.132.53.195/Rcn/index.fmp4.m3u8
+#EXTINF:0, "Caracol"
+http://161.132.53.195/Caracol/index.fmp4.m3u8
+#EXTINF:0, "STARCHN"
+http://161.132.53.195/Starchanel/index.fmp4.m3u8
