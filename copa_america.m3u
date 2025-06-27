@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:0, "WIN+"
+#EXTINF:-1, "WIN+"
 http://161.132.53.195/Winplus/index.fmp4.m3u8
-#EXTINF:0, "ESPN1"
+#EXTINF:-1, "ESPN1"
 http://161.132.53.195/Espn1/index.fmp4.m3u8
-#EXTINF:0, "ESPN2"
+#EXTINF:-1, "ESPN2"
 http://161.132.53.195/Espm2/index.fmp4.m3u8
 #EXTINF:0, "ESPN3"
 http://161.132.53.195/Espm3/index.fmp4.m3u8
