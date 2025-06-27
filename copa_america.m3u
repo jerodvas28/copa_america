@@ -23,7 +23,7 @@ http://161.132.53.195/dsposrt2/index.fmp4.m3u8
 #EXTINF:0, "DGO3"
 http://161.132.53.195/Dspprtsmas/index.fmp4.m3u8
 #EXTINF:0, "Fox"
-http://161.132.53.195/Foxsp/tracks-a1/index.fmp4.m3u8
+http://161.132.53.195/Foxsp/index.fmp4.m3u8
 #EXTINF:0, "RCN"
 http://161.132.53.195/Rcn/index.fmp4.m3u8
 #EXTINF:0, "Caracol"
